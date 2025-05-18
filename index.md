@@ -292,7 +292,7 @@
 - محاسبه گرادیان با استفاده از autodiff  
 - حلقه‌های آموزش سفارشی  
 - توابع TensorFlow و گراف‌ها  
-  - AutoGraph و فرآیند ردیابی (Tracing)  
+  - تبدیل خودکار کد به گراف (AutoGraph) و فرآیند ردیابی (Tracing)  
   - قواعد استفاده از tf.function  
 - تمرین‌ها  
 
@@ -300,7 +300,7 @@
 
 ## فصل ۱۳: بارگذاری و پیش‌پردازش داده‌ها با TensorFlow
 
-- API مربوط به `tf.data`  
+- رابط کاربری (API) مربوط به `tf.data`
 - زنجیره‌سازی تبدیلات  
 - درهم‌ریزی (Shuffling) داده‌ها  
 - درهم‌آمیختن خطوط از فایل‌های مختلف  
@@ -340,13 +340,13 @@
 - لایه‌های Pooling  
   - پیاده‌سازی Pooling با Keras  
 - معماری‌های CNN  
-  - LeNet-5  
-  - AlexNet  
-  - GoogLeNet  
-  - VGGNet  
-  - ResNet  
-  - Xception  
-  - SENet  
+  - معماری LeNet-5  
+  - معماری AlexNet  
+  - معماری GoogLeNet  
+  - معماری VGGNet  
+  - معماری ResNet  
+  - معماری Xception  
+  - معماری SENet  
   - سایر معماری‌های قابل توجه  
 - انتخاب معماری مناسب CNN  
 - پیاده‌سازی ResNet-34 با Keras  
