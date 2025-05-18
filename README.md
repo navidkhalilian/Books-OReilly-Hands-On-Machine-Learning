@@ -1,3 +1,6 @@
+![Cover Image](https://github.com/navidkhalilian/Books-OReilly-Hands-On-Machine-Learning/blob/main/cover.png?raw=true)
+
+
 # Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
 
 
