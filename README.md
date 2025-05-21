@@ -1,9 +1,12 @@
 **ترجمه فارسی کتاب نسخه سوم**
+
 ![Cover Image](https://github.com/navidkhalilian/Books-OReilly-Hands-On-Machine-Learning/blob/main/cover.png?raw=true)
 
 
 # Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition
 
+[مشاهده سرفصل و مطالعه کتاب
+](index.md).
 
 کتاب "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition" نوشته Aurélien Géron یکی از منابع برجسته و محبوب برای یادگیری یادگیری ماشین (Machine Learning) و هوش مصنوعی(Ai) است. این کتاب برای افرادی که به دنبال یادگیری عملی مفاهیم یادگیری ماشین و ساخت مدل‌های یادگیری ماشین با استفاده از کتابخانه‌های معروف مانند Scikit-Learn, Keras, و TensorFlow هستند، بسیار مناسب است.
 
